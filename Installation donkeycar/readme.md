@@ -4,7 +4,7 @@
 
 Here are the steps to install Raspbian OS Lite on a fresh Raspberry Pi 4B:
 
-1. Download the Raspbian OS Lite image from the official Raspberry Pi website. Make sure to choose the appropriate version for your Raspberry Pi model.
+1. Download the Raspbian OS Lite image from the official Raspberry Pi website. Make sure to choose the appropriate version for your Raspberry Pi model. 64 bits!!!
 2. Flash the Raspbian OS Lite image onto a microSD card using a tool like Raspberry Pi Imager or Etcher.
 3. Insert the microSD card into the Raspberry Pi 4B and connect the power supply, keyboard, mouse, and monitor.
 4. Wait for the Raspberry Pi to boot up and login using the default username and password. The default username is "pi" and the default password is "raspberry".
@@ -69,8 +69,10 @@ Here are the steps to authenticate yourself in ssh:
 	in our case:
 	
 	```
-	ssh pi@imtaracing.local
+	ssh car@iaracing64.local
 	```
+	
+	the password is iaracing64
 
 ## Installing Donkey Car and preparing the env
 
@@ -92,7 +94,7 @@ L’installation est relativement laborieuse donc voici une explication de la pr
 
 **Tensorflow**
 
-Donkeycar a été prévu pour fonctionner avec Tensorflow **2.2** mais des versions plus récentes peuvent être utilisées. Cependant, avec Windows, la version **2.10** de Tensorflow était la dernière version permettant l’utilisation du GPU:&#x20;
+Donkeycar a été prévu pour fonctionner avec Tensorflow **2.9** mais des versions plus récentes peuvent être utilisées. Cependant, avec Windows, la version **2.10** de Tensorflow était la dernière version permettant l’utilisation du GPU:&#x20;
 
 {% embed url="https://www.tensorflow.org/install/pip?hl=fr#windows-native" %}
 
