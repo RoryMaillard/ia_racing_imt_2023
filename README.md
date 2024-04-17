@@ -9,9 +9,9 @@ Les élèves ayant travaillé sur ce projet en 2022-2023 sont :
 | Carlos HORTÚA CALDERÓN| ROBIN     |
 | Luc MARÉCHAL          | ROBIN     |
 | Thomas GEORGET        | ROBIN     |
-| Julien DAUCE          | PROBIN    |
+| Julien DAUCE          | ROBIN     |
 | Aymane JEBARI         | LOGIN     |
-| Rory MAILLARD         | LOGIJ     |
+| Rory MAILLARD         | LOGIN     |
 
 ## Structure du repository
 
