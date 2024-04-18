@@ -4,14 +4,14 @@ Bienvenue sur le projet *IA Racing* d'IMT Atlantique. Dans ce repository, vous t
 
 Les élèves ayant travaillé sur ce projet en 2022-2023 sont :
 
-| Élève                 | TAF       |
-| ---                   | ---       |
-| Carlos HORTÚA CALDERÓN| ROBIN     |
-| Luc MARÉCHAL          | ROBIN     |
-| Thomas GEORGET        | ROBIN     |
-| Julien DAUCE          | ROBIN     |
-| Aymane JEBARI         | LOGIN     |
-| Rory MAILLARD         | LOGIN     |
+| Élève                 | TAF       | CONTACT                  |
+| ---                   | ---       |---                       |
+| Carlos HORTÚA CALDERÓN| ROBIN     |                          |
+| Luc MARÉCHAL          | ROBIN     |                          |
+| Thomas GEORGET        | ROBIN     |                          |
+| Julien DAUCE          | ROBIN     |                          |
+| Aymane JEBARI         | LOGIN     |                          |
+| Rory MAILLARD         | LOGIN     | rory.maillard0@gmail.com |
 
 ## Structure du repository
 
